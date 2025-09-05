@@ -14,14 +14,16 @@
 
 ---
 
-### 🚀 Tecnologias que uso:
+<p align= "center"><b>Tecnologias que uso💻</b>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,git,github" />
 </div>
+</p>
 
 ---
 
-### 📫 Como me encontrar:
+<p align= "center"><b>Como me contactar?</b>
 <div align="center">
   ✉️ <a href="mailto:annajulia7879@gmail.com">annajulia7879@gmail.com</a>
 </div>
+</p>
