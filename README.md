@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Julia-alt-0w0&show_icons=true&theme=catppuccin_mocha)
 
