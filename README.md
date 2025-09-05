@@ -1,3 +1,4 @@
 <div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Danuraghazra%26show_icons%3Dtrue%26theme%3Dcatppuccin_mocha" />
+<!-- Teste com um usuário que sabemos que funciona -->
+<img src="https://www.google.com/url?sa=E&source=gmail&q=https://github-readme-stats.vercel.app/api?username=anuraghazra%26show_icons=true%26theme=catppuccin_mocha" />
 </div>
